@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Rawand Ako Khalid.
-- 🏡 Iam from iraq, but i live in Germany.
-- 🙆 Iam 15 yers old. 
-- 🗣️ Deutsch👐, English👋, 💪کورد✌️, عربي
-
 <h1 align="center">
   <b>Abhigyan Trips</b>
 </h1>
@@ -69,4 +64,4 @@ if __name__ == '__main__':
 
 Credit: [Rawand-developer](https://github.com/Rawand-developer)
 
-Last Edited on: 24/12/2021
+Last Edited on: 2022
