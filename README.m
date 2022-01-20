@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <b></b>
 </h1>
 
 Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
