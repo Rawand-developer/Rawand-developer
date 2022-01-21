@@ -7,7 +7,9 @@ Hallo! Ich bin Rawand, ich bin Schuler und der derzeit in NRW, Deutschland lebe.
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Javascript-98b982?style=for-the-badge&logo=javascript&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/-php-787cb5?style=for-the-badge&logo=php&logoColor=787cb5&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=f0db4f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Vue.Js-98b982?style=for-the-badge&logo=vue.js&logoColor=98b982&labelColor=282828">
 </div>
 </p>
 
