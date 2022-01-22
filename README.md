@@ -19,7 +19,7 @@ class Rawand():
   def __init__(self):
     self.name = "Rawand";
     self.username = "Rawand-developer";
-    self.location = "Deutschland";
+    self.location = "Germany";
     self.born = "Kurdistan";
     self.instagram = "@rawand_dev";
     self.email = "info@rawand.eu.org";
