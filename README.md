@@ -1,6 +1,4 @@
-<h1 align="center">
-  <b>Rawand</b>
-</h1>
+<h1><b>Rawand</b></h1>
 Hallo! Ich bin Rawand, ich bin Schuler und der derzeit in NRW, Deutschland lebe. Ich bereite mich auf eine große Projekte vor und lerne das Programmieren sprache sehr.<br>
 <p>
 <div align="center">
