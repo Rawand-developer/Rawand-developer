@@ -1,27 +1,35 @@
 <h1><b>Rawand</b></h1>
-Hallo! Ich bin Rawand, ich bin Schuler und der derzeit in NRW, Deutschland lebe. Ich bereite mich auf eine große Projekte vor und lerne das Programmieren sprache sehr.<br>
-<p>
+<p>Hallo! Ich bin Rawand, ich bin Schuler und der derzeit in NRW, Deutschland lebe. Ich bereite mich auf eine große Projekte vor und lerne das Programmieren sprache sehr <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30"></p>
+
+<!-- p>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-php-787cb5?style=for-the-badge&logo=php&logoColor=787cb5&labelColor=282828">
   <img src="https://img.shields.io/badge/-Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=f0db4f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Vue.Js-41b883?style=for-the-badge&logo=vue.js&logoColor=41b883&labelColor=282828">
 </div>
-</p>
+</p -->
+
+
 
 ```python
 class Rawand():
     
   def __init__(self):
-    self.name = "Rawand";
-    self.username = "Rawand-developer";
+    self.name = "Rawand Khalid";
+    self.username = "Rawand";
     self.location = "Germany";
     self.born = "Kurdistan";
     self.instagram = "@rawand_dev";
     self.email = "info@rawand.eu.org";
     self.web = "https://rawand.eu.org";
+    self.code = {
+       'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
+       'backend': ['Python', 'PHP'],
+       'tools': ['GIT', 'GitHub', 'Spck'],
+       'misc': ['Firebase', 'TDD', 'GNU/Linux/Termux']
+    }
   
   def __str__(self):
     return self.name
@@ -51,5 +59,4 @@ if __name__ == '__main__':
   </a>
 </p>
 <br>
-
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rawand-developer&custom_title=Rawand%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://Rawand-developer.dev)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rawand-developer&bg_color=141414&color=00ff00&line=ff0000&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
