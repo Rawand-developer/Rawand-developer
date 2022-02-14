@@ -11,8 +11,6 @@
 </div>
 </p -->
 
-
-
 ```python
 class Rawand():
     
@@ -58,5 +56,3 @@ if __name__ == '__main__':
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Rawand-developer&show_icons=true&theme=gruvbox&hide_border=true" /><img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rawand-developer&theme=gruvbox&hide_border=true" />
   </a>
 </p>
-<br>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rawand-developer&bg_color=141414&color=00ff00&line=ff0000&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
